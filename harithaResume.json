@@ -1,0 +1,63 @@
+{
+    "name":"Haritha Reddy G",
+    "contact":{ 
+        "mobile":"1234567890",
+        "email":"harithareddyg11@gmail.com"
+    },
+    "Objective":"Post Graduate with a degree in MSIT seeking an entry-level Full Stack Developer position to leverage academic knowledge and hands-on project experience. Eager to contribute to a dynamic development team, enhance technical skills, and participate in real-world software development projects.",
+    "skills":{"BackEndTechs":["Node.js","Python","Java"],
+              "FrontEndTechs":["HTML5","CSS3","Bootstrap","Javascript","DOM","React","Angular","BootStrap"],
+              "DataBaseTechs":["Mysql","MongoDB"],
+              "DevelopmentTools":["VSCode","npm","IntelliJ"],
+              "other Skills":["Git","Github","RestfulAPIs","SystemDesign","AWS","DataStructure & Algorithms"]
+    },
+    "Education":[{
+            "course":"MSIT",
+            "University":"JNTUH",
+            "YearOfPassing":"2011"},
+            {
+            "course":"PGDIT",
+            "University":"SVU",
+            "YearOfPassing":"2009"
+            }],
+    "Projects":[{
+                "projectName" : "Farmers Mart",
+                "BriefDescription":"A Web application, developed by using HTML5, CSS3, BootStrap, Angular, Spring boot, Mysql",
+                "Description": "Farmers Mart App, is a Web application, where the farmers can view, add, update and delete the crops, and customers can view and order the products. Implemented the user authentication",
+                "Technologies": " MySql, HTML5, CSS3, BootStrap, JQuery, JSON, GIT, Jasmine, Visual Studio Code, IntelliJ"},
+            {
+                "projectName" : "TechJobs",
+                "BriefDescription":"A web application , developed by using HTML5, CSS3, BootStrap, Thymeleaf, Spring Boot, Mysql",
+                "Description": " A web application, where a user can view, add, update the jobs and search the jobs based on employer and skill.",
+                "Technologies": " Thymeleaf, Spring Boot, Hibernate, MySql, TDD, GIT, Visual Studio Code, IntelliJ"
+            },
+            {
+                "projectName" : "Mini Google Search Engine",
+                "BriefDescription":"Java application developed by using Data structures from Java",
+                "Description": "  A simple search service for the World Wide Web or any web site. Developed by using Core Java and the design and analysis of data structures queues, linked lists, trees, hashing, dictionary data structures, priority queues and heaps.. ",
+                "Technologies": " Core Java, Swings, Eclipse"
+            },
+            {
+                "projectName" : "NutchAds",
+                "BriefDescription":"Java application, developed by using JSP, Servlets, MySql, HTML, CSS, XML, AJAX, Javascript",
+                "Description": " Provides service for the users ads by charging monthly and yearly. Designed the project by using UML, developed by JSP, servlets and MySql. ",
+                "Technologies": "  JSP, Servlets, MySql, HTML, CSS, XML, AJAX, Javascript, Net Beans."
+            
+            }],
+    "Certifications":[
+            {
+                "course":"FullStackDevelopment Course",
+                "Platform":"GUVI'S Zen class",
+                "Year":"April 2023"
+            },
+            {
+                "course":"JavaScript & Java Web Development Course",
+                "Platform":"LaunchCode’s LC101",
+                "Year":"April 2021"
+            }
+
+    ],
+    "languages":"English, Telugu"
+
+
+}
